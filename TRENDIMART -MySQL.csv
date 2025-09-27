@@ -1,0 +1,51 @@
+SN,Date,Product_Category,Product_Name,Units_Sold,Unit_Price,Revenue,Cost,Profit,Region
+1,1/5/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+2,1/5/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+3,1/5/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+4,1/5/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+5,1/5/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+6,1/6/2025,Fashion,Sneakers Y,50,80,4000,2500,1500,Abuja
+7,1/6/2025,Fashion,Sneakers Y,50,80,4000,2500,1500,Abuja
+8,1/6/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+9,1/7/2025,Fashion,Sneakers Y,50,80,4000,2500,1500,Abuja
+10,1/7/2025,Fashion,Sneakers Y,20,40,800,600,200,Abuja
+11,1/7/2025,Fashion,Sneakers Y,50,80,4000,2500,1500,Abuja
+12,1/7/2025,Fashion,Sneakers Y,20,40,800,600,200,Abuja
+13,1/7/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+14,1/8/2025,Fashion,Sneakers Y,15,900,13500,10000,3500,Abuja
+15,1/8/2025,Fashion,Sneakers Y,15,900,13500,10000,3500,Abuja
+16,1/8/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+17,1/9/2025,Groceries,Rice (50kg),20,40,800,600,200,Port Harcourt
+18,1/9/2025,Groceries,Rice (50kg),20,40,800,600,200,Port Harcourt
+19,1/9/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+20,1/10/2025,Electronics,Laptop Z,15,900,13500,10000,3500,Lagos
+21,1/10/2025,Electronics,Laptop Z,15,900,13500,10000,3500,Lagos
+22,1/10/2025,Electronics,Laptop Z,15,900,13500,10000,3500,Lagos
+23,1/10/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+24,1/11/2025,Electronics,Smartphone X,35,500,17500,12000,5500,Lagos
+25,1/12/2025,Fashion,Jacket Q,25,100,2500,1500,1000,Kano
+26,1/12/2025,Fashion,Sneakers Y,25,100,2500,1500,1000,Kano
+27,1/12/2025,Fashion,Jacket Q,25,100,2500,1500,1000,Kano
+28,1/12/2025,Fashion,Sneakers Y,25,100,2500,1500,1000,Kano
+29,1/12/2025,Fashion,Jacket Q,25,100,2500,1500,1000,Kano
+30,1/14/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+31,1/14/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+32,1/14/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+33,1/14/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+34,1/14/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+35,1/15/2025,Electronics,Headphones,60,50,3000,1800,1200,Lagos
+36,1/15/2025,Electronics,Headphones,60,50,3000,1800,1200,Lagos
+37,1/15/2025,Electronics,Headphones,60,50,3000,1800,1200,Lagos
+38,1/15/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+39,1/15/2025,Electronics,Headphones,60,50,3000,1800,1200,Lagos
+40,1/16/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+41,1/17/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+42,1/18/2025,Fashion,T-Shirt M,70,20,1400,700,700,Ibadan
+43,1/18/2025,Fashion,T-Shirt M,70,20,1400,700,700,Ibadan
+44,1/18/2025,Fashion,T-Shirt M,70,20,1400,700,700,Ibadan
+45,1/18/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+46,1/18/2025,Fashion,T-Shirt M,70,20,1400,700,700,Ibadan
+47,1/19/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+48,1/20/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+49,1/21/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
+50,1/22/2025,Groceries,Cooking Oil,40,15,600,400,200,Abuja
